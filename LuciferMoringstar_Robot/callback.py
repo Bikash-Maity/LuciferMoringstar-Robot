@@ -36,7 +36,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
                     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
@@ -54,7 +54,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
                     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
@@ -81,7 +81,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
                     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
@@ -98,7 +98,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
                 buttons.append(
                     [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
@@ -128,7 +128,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -143,7 +143,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -167,7 +167,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -182,7 +182,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 buttons.append(
                     [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("🗑️", callback_data="close")]
+                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
