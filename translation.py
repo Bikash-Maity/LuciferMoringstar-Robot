@@ -7,14 +7,7 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [Darklord](t.me/hellodarklord)
-
-
-
-
-
-
-
+🤴 My Dev : [Darklord](t.me/hellodarklord)
 
 🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
 
@@ -23,12 +16,8 @@ class LuciferMoringstar(object):
 🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)"""
-
-
-
-
-
-   FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    
+    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
@@ -59,3 +48,68 @@ Couldn't Find {query}?  Please Click Your Request Movie Name"""
 👤 Requested By : {mention}
 
 © **{chat}**"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
