@@ -33,7 +33,7 @@ class LuciferMoringstar(object):
     SPELL_CHECK = """
 Hello👋 {mention},
 
-I Couldn't 🔍 Find  You Asked For 🤷
+I Couldn't 🔍 Find {search}</b> You Asked For 🤷
 
 Click [GOOGLE] [IMDB] [WIKIPEDIA] On Any Button And Find The Correct Movie/Series Name And Enter It Here ⤵️
 
@@ -52,6 +52,10 @@ If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
 👤 Requested By : {mention}
+🎬 Title : [{title}]({url})
+📆 Year : {year}
+🌟 Rating {rating}/10
+🗨️ Genres {genres}
 
 © **{chat}**"""
 
