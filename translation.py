@@ -33,7 +33,7 @@ class LuciferMoringstar(object):
     SPELL_CHECK = """
 Hello👋 {mention},
 
-I Couldn't 🔍 Find {query} You Asked For 🤷
+I Couldn't 🔍 Find The Movie You Requested 🤷
 
 Click [GOOGLE] [IMDB] [WIKIPEDIA] On Any Button And Find The Correct Movie/Series Name And Enter It Here ⤵️
 
