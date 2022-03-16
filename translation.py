@@ -31,9 +31,15 @@ class LuciferMoringstar(object):
 
     ADD_YOUR_GROUP = """**__ഞാൻ ജോലി ചെയ്യുന്ന ഗ്രൂപ്പിൽ ചേരൂ, നിങ്ങൾക്ക് ആവശ്യമുള്ള എല്ലാ സിനിമകളും  ആ ഗ്രൂപ്പിൽ അഭ്യർത്ഥിക്കാം! ഇവിടെ അഭ്യർത്തിക്കരുത്..😤__**"""
     SPELL_CHECK = """
-Hello 👋〘 {mention} 〙,
+Hello👋 {mention},
 
-Couldn't Find {query}?  Please Click Your Request Movie Name"""
+I Couldn't 🔍 Find  You Asked For 🤷
+
+Click [GOOGLE] [IMDB] [WIKIPEDIA] On Any Button And Find The Correct Movie/Series Name And Enter It Here ⤵️
+
+If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then Your Requested Movie/Series Does Not Exit In My Database 🗄"""
+
+
     GET_MOVIE_1 = """
 📽️ Requested Movie : [{query}]({url})
 👤 Requested By : {mention}
