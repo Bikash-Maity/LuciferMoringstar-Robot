@@ -7,9 +7,9 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [Darklord](https://t.me/hellodarklord)
+🧑 My Dev : [Darklord](t.me/hellodarklord)
 
-🧑 My Creator : {professor}
+🧑 My Creator : {dev_name}
 
 📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 
