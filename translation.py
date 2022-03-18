@@ -17,7 +17,24 @@ class LuciferMoringstar(object):
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)"""
     
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """📂 File Info - <code>{file_name}</code>
+✯ ━━━━━ ✧ ━━━━━ ✯
+🔘𝐉𝐨𝐢𝐧
+👉<a href=https://t.me/+ZXawwx1Sli8zM2M9 >𝙵𝙸𝙻𝙼 𝚉𝙾𝙽𝙴 𝟸.𝟶 </a>
+👉<a href=https://t.me/+5weW2m7z9cQ5MjZl >𝙵𝙸𝙻𝙼 𝚉𝙾𝙽𝙴 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 </a>
+✯ ━━━━━ ✧ ━━━━━ ✯
+➠𝐇𝐞𝐫𝐞 𝐈𝐬 𝐘𝐨𝐮𝐫 #𝐑𝐞𝐪𝐮𝐞𝐬𝐭
+✯ ━━━━━ ✧ ━━━━━ ✯
+👋 ʜᴇʏ!!
+ᴋɪɴᴅʟʏ ᴀᴅᴅ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ, 
+ᴀꜰᴛᴇʀ ɢᴇᴛᴛɪɴɢ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ.
+ɪᴛ ᴡɪʟʟ ʜᴇʟᴘ ᴜꜱ ɢʀᴏᴡɪɴɢ 🙏
+✯ ━━━━━ ✧ ━━━━━ ✯
+⬆️𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲
+👉<a href='https://t.me/hellodarklord'>Darklord</a>
+✯ ━━━━━ ✧ ━━━━━ ✯
+𝐉𝐨𝐢𝐧🎗️ 𝐒𝐡𝐚𝐫𝐞🎗️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+✯ ━━━━━ ✧ ━━━━━ ✯"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
