@@ -31,7 +31,7 @@ class LuciferMoringstar(object):
 ɪᴛ ᴡɪʟʟ ʜᴇʟᴘ ᴜꜱ ɢʀᴏᴡɪɴɢ 🙏
 ✯ ━━━━━ ✧ ━━━━━ ✯
 ⬆️𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲
-👉<a href='https://t.me/hellodarklord'>Darklord</a>
+👉<a href='https://t.me/hellodarklord'>𝐃𝐚𝐫𝐤𝐥𝐨𝐫𝐝</a>
 ✯ ━━━━━ ✧ ━━━━━ ✯
 𝐉𝐨𝐢𝐧🎗️ 𝐒𝐡𝐚𝐫𝐞🎗️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 ✯ ━━━━━ ✧ ━━━━━ ✯"""
