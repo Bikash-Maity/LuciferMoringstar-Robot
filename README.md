@@ -6,7 +6,7 @@
   <a href="https://youtu.be/FCU_XJmyG_U">𝗟𝘂𝗰𝗶𝗳𝗲𝗿𝗠𝗼𝗿𝗶𝗻𝗴𝘀𝘁𝗮𝗿 𝗥𝗼𝗯𝗼𝘁</a>
 </p>
 
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
+<img src="https://img.shields.io/github/stars/Bikash-Maity/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
 
 
 
@@ -16,7 +16,7 @@
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
-### 🔘 <a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
+### 🔘 <a href="https://github.com/Bikash-Maity/LuciferMoringstar-Robot/tree/Bikash-Maity/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
 
 - [x] IMDB Poster
 - [x] IMDB Rating
