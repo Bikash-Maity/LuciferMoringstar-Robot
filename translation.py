@@ -60,7 +60,6 @@ If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then
     GET_MOVIE_1 = """
 ↪️ Requested : [{query}]({url})
 👤 Requested By : {mention}
-📄 Total Page : {page}/10
 🎬 Title : [{title}]({url})
 📆 Year : {year}
 🌟 Rating : {rating}/10
