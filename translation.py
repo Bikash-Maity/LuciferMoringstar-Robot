@@ -58,13 +58,14 @@ If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then
 
 
     GET_MOVIE_1 = """
-📽️ Requested Movie : [{query}]({url})
+↪️ Requested : [{query}]({url})
 👤 Requested By : {mention}
+📄 Total Page : {page}/10
 🎬 Title : [{title}]({url})
 📆 Year : {year}
-🌟 Rating {rating}/10
-🗨️ Genres {genres}"""
-
+🌟 Rating : {rating}/10
+🎭 Genres : {genres}
+🎙️ Group : {groupname}
 
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
