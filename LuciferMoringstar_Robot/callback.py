@@ -269,7 +269,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
             if query.from_user.id not in ADMINS: 
                 buttons = [[
                  InlineKeyboardButton("🆘 Help", callback_data="help"),
-                 InlineKeyboardButton("🤗 About", callback_data="about") 
+                 InlineKeyboardButton("🤖 About", callback_data="about") 
                  ],[
                  InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+WFE2IOCd2fkzYWI9"),
                  InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
@@ -277,7 +277,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
             else:
                 buttons = [[
                  InlineKeyboardButton("🆘 Help", callback_data="bot_owner"),
-                 InlineKeyboardButton("🤗 About", callback_data="about") 
+                 InlineKeyboardButton("🤖 About", callback_data="about") 
                  ],[
                  InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
                  InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
