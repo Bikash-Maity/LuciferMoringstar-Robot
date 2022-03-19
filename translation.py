@@ -65,7 +65,7 @@ If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then
 📆 Year : {year}
 🌟 Rating : {rating}/10
 🎭 Genres : {genres}
-🎙️ Group : {groupname}
+🎙️ Group : {groupname}"""
 
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
