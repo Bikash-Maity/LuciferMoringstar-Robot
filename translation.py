@@ -13,9 +13,9 @@ class LuciferMoringstar(object):
 
 🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Database : [Mongodb](https://mongoDB.com)
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)"""
+🗳️ My Server : [Heroku](https://heroku.com)"""
     
     FILE_CAPTIONS = """📂 File Info - <code>{file_name}</code>
 ✯ ━━━━━ ✧ ━━━━━ ✯
@@ -63,16 +63,15 @@ If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then
 🎬 Title : [{title}]({url})
 📆 Year : {year}
 🌟 Rating : {rating}/10
-🎭 Genres : {genres}
-🎙️ Group : {groupname}"""
+🎭 Genres : {genres}"""
 
     GET_MOVIE_2 = """
-📽️ Requested Movie : {query}
+↪️ Requested Movie : {query}
 👤 Requested By : {mention}
 🎬 Title : [{title}]({url})
 📆 Year : {year}
-🌟 Rating {rating}/10
-🗨️ Genres {genres}
+🌟 Rating : {rating}/10
+🎭 Genres : {genres}
 
 © **{chat}**"""
 
