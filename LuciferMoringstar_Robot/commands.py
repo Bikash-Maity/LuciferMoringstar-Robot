@@ -16,7 +16,7 @@ async def start_message(bot, message):
         if message.from_user.id not in ADMINS: 
             buttons = [[
              InlineKeyboardButton("🆘 Help", callback_data="help"),
-             InlineKeyboardButton("🤗 About", callback_data="about") 
+             InlineKeyboardButton("🤖 About", callback_data="about") 
              ],[
              InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
              InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
@@ -24,7 +24,7 @@ async def start_message(bot, message):
         else:
             buttons = [[
              InlineKeyboardButton("🆘 Help", callback_data="bot_owner"),
-             InlineKeyboardButton("🤗 About", callback_data="about") 
+             InlineKeyboardButton("🤖 About", callback_data="about") 
              ],[
              InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
              InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+5weW2m7z9cQ5MjZl")
@@ -49,7 +49,7 @@ async def start_message(bot, message):
 async def help(bot, message):
     button = [[
      InlineKeyboardButton("🏠 Home", callback_data="start"),
-     InlineKeyboardButton("About 🤗", callback_data="about")
+     InlineKeyboardButton("About 🤖", callback_data="about")
      ]]
     await message.reply_photo(
         photo = choice(BOT_PICS),
