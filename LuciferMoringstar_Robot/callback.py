@@ -250,7 +250,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 if f_caption is None:
                     f_caption = LuciferMoringstar.FILE_CAPTIONS
                 buttons = [[
-                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('🔗 Join Group', url='https://t.me/+WFE2IOCd2fkzYWI9')
                   ]]                 
                 
                 await query.answer()
@@ -272,7 +272,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("🤗 About", callback_data="about") 
                  ],[
                  InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+WFE2IOCd2fkzYWI9"),
-                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+5weW2m7z9cQ5MjZl   ")
+                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
                  ]]
             else:
                 buttons = [[
@@ -280,14 +280,14 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("🤗 About", callback_data="about") 
                  ],[
                  InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
-                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+5weW2m7z9cQ5MjZl")
+                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
                  ]]               
             await query.message.edit(text=START_MSG.format(mention=query.from_user.mention, bot_name=bot_info.BOT_NAME, bot_username=bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
         elif query.data == "help":
             buttons = [[
               InlineKeyboardButton("🏠 Home", callback_data="start"),
-              InlineKeyboardButton("About 🤗", callback_data="about")
+              InlineKeyboardButton("About 🤖", callback_data="about")
               ]]               
             await query.message.edit(text=LuciferMoringstar.HELP_MSG.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
@@ -301,7 +301,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
         elif query.data == "bot_owner":
             buttons = [[
              InlineKeyboardButton('🏠 Home', callback_data="start"),
-             InlineKeyboardButton('About 🤗', callback_data="about")
+             InlineKeyboardButton('About 🤖', callback_data="about")
              ]]               
             await query.message.edit(text=LuciferMoringstar.PR0FESS0R_99.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
