@@ -19,7 +19,7 @@ async def start_message(bot, message):
              InlineKeyboardButton("🤗 About", callback_data="about") 
              ],[
              InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
-             InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+5weW2m7z9cQ5MjZl")
+             InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
              ]]
         else:
             buttons = [[
