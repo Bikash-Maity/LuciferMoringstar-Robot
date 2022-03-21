@@ -6,12 +6,12 @@ Get File Caption 👉 {file_caption}
 
 Example :-
 
-Title <code>{file_name}</code>
+File Name <code>{file_name}</code>
 
 Size {file_size}
 
 {file_caption}
 
-🔘 Join [MoTech Channel](t.me/Mo_Tech_YT)
+🔗 Join [FILM ZONE 2.0] (https://t.me/+ZXawwx1Sli8zM2M9)
 
 ------ [ END ] ------
