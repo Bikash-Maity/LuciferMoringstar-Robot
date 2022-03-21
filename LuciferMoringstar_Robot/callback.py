@@ -18,7 +18,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
     if (clicked == typed):
 
 
-# # ---------- 🔘 [ | 𝗚𝗥𝗢𝗨𝗣 𝗙𝗜𝗟𝗧𝗘𝗥𝗦 | ] 🔘 ---------- # #
+# # ---------- 🔘 [ | GROUP FILTERS | ] 🔘 ---------- # #
 
         if query.data.startswith("nextgroup"):
             ident, index, keyword = query.data.split("_")
@@ -109,7 +109,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 return
 
-# # ---------- 🔘 [ | 𝗕𝗢𝗧 𝗣𝗠 𝗙𝗜𝗟𝗧𝗘𝗥𝗦 | ] 🔘 ---------- # #
+# # ---------- 🔘 [ | BOT PM FILTERS | ] 🔘 ---------- # #
 
 
         elif query.data.startswith("nextbot"):
@@ -190,7 +190,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 )
                 return
 
-# ---------- 📁 [ | 𝗚𝗘𝗧 𝗙𝗜𝗟𝗘𝗦 | ] 📁 ---------- #
+# ---------- 📁 [ | GET FILES | ] 📁 ---------- #
 
 
         elif query.data.startswith("lucifermoringstar_robot"):
@@ -229,7 +229,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
             except Exception as e:
                 await query.answer(url=f"https://t.me/{bot_info.BOT_USERNAME}?start=subscribe")
 
-# ---------- 📁 [ | 𝗣𝗠 𝗙𝗜𝗟𝗘𝗦 | ] 📁 ---------- #
+# ---------- 📁 [ | PM FILES | ] 📁 ---------- #
 
         elif query.data.startswith("pmfile"):
             if FORCES_SUB and not await is_subscribed(client, query):
@@ -262,7 +262,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                     )
 
 
-# ---------- 📁 [ | 𝗠𝗢𝗗𝗨𝗟𝗘𝗦 | ] 📁 ---------- #
+# ---------- 📁 [ | MODULES | ] 📁 ---------- #
 
 
         elif query.data == "start":
