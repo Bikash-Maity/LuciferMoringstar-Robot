@@ -10,7 +10,7 @@ File Name <code>{file_name}</code>
 
 Size {file_size}
 
-{file_caption}
+File Caption {file_caption}
 
 🔗 Join [FILM ZONE 2.0] (https://t.me/+ZXawwx1Sli8zM2M9)
 
