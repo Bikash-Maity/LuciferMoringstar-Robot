@@ -2,7 +2,7 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**You are not my admin so you will not see the help message**"""
+    HELP_MSG = """**You Are Not My Admin So You Will Not See The Help Message**"""
 
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
