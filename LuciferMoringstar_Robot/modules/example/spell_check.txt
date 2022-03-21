@@ -3,8 +3,8 @@
 Get User Name 👉 {mention}
 Get Request Text {query}
 
-Hello 👋〘 {mention} 〙,
+Hello👋 {mention},
 
-Couldn't Find {query}?  Please Click Your Request Movie Name"""
+I Couldn't Find {query} Please Click Your Request Movie Name"""
 
 ------ [ END ] ------
