@@ -20,8 +20,8 @@ class LuciferMoringstar(object):
     FILE_CAPTIONS = """📂 File Info - <code>{file_name}</code>
 ✯ ━━━━━ ✧ ━━━━━ ✯
 🔘𝐉𝐨𝐢𝐧
-👉<a href=https://t.me/+ZXawwx1Sli8zM2M9 >𝙵𝙸𝙻𝙼 𝚉𝙾𝙽𝙴 𝟸.𝟶 </a>
-👉<a href=https://t.me/+N39H_-uakq1iNTI1 >𝙵𝙸𝙻𝙼 𝚉𝙾𝙽𝙴 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 </a>
+👉<a href=https://t.me/+TR3LC5WCTVxiMDJl >𝐻𝐼𝒩𝒟𝐼 & 𝒯𝒜𝑀𝐼𝐿 𝑀𝒪𝒱𝐼𝐸𝒮 𝟤.𝟢</a>
+👉<a href=https://t.me/+MSBaJ0XVqeAzZTZl >𝘏𝘐𝘕𝘋𝘐 & 𝘛𝘈𝘔𝘐𝘓 𝘔𝘖𝘝𝘐𝘌𝘚 𝘜𝘗𝘋𝘈𝘛𝘌𝘚</a>
 ✯ ━━━━━ ✧ ━━━━━ ✯
 ➠𝐇𝐞𝐫𝐞 𝐈𝐬 𝐘𝐨𝐮𝐫 #𝐑𝐞𝐪𝐮𝐞𝐬𝐭
 ✯ ━━━━━ ✧ ━━━━━ ✯
@@ -31,7 +31,7 @@ class LuciferMoringstar(object):
 ɪᴛ ᴡɪʟʟ ʜᴇʟᴘ ᴜꜱ ɢʀᴏᴡɪɴɢ 🙏
 ✯ ━━━━━ ✧ ━━━━━ ✯
 ⬆️𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲
-👉<a href='https://t.me/hellodarklord'>𝐃𝐚𝐫𝐤𝐥𝐨𝐫𝐝</a>
+👉<a href='https://t.me/hellodarklord'>𝓓𝓪𝓻𝓴𝓵𝓸𝓻𝓭</a>
 ✯ ━━━━━ ✧ ━━━━━ ✯
 𝐉𝐨𝐢𝐧🎗️ 𝐒𝐡𝐚𝐫𝐞🎗️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 ✯ ━━━━━ ✧ ━━━━━ ✯"""
