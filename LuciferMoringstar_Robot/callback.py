@@ -250,7 +250,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 if f_caption is None:
                     f_caption = LuciferMoringstar.FILE_CAPTIONS
                 buttons = [[
-                  InlineKeyboardButton('🔗 Join Group', url='https://t.me/+WFE2IOCd2fkzYWI9')
+                  InlineKeyboardButton('🔗 Join Group', url='https://t.me/+DOZ1Blzh4oQ4YzRl')
                   ]]                 
                 
                 await query.answer()
@@ -271,16 +271,16 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("🆘 Help", callback_data="help"),
                  InlineKeyboardButton("🤖 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+WFE2IOCd2fkzYWI9"),
-                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
+                 InlineKeyboardButton("🔗 TK Brand Series", url="https://t.me/+DOZ1Blzh4oQ4YzRl"),
+                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+V-4mscR9JDVmZmE1")
                  ]]
             else:
                 buttons = [[
                  InlineKeyboardButton("🆘 Help", callback_data="bot_owner"),
                  InlineKeyboardButton("🤖 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🔗 Film Zone 2.0", url="https://t.me/+ZXawwx1Sli8zM2M9"),
-                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+N39H_-uakq1iNTI1")
+                 InlineKeyboardButton("🔗 TK Brand Series", url="https://t.me/+DOZ1Blzh4oQ4YzRl"),
+                 InlineKeyboardButton("📣 Updates Channel", url="https://t.me/+V-4mscR9JDVmZmE1")
                  ]]               
             await query.message.edit(text=START_MSG.format(mention=query.from_user.mention, bot_name=bot_info.BOT_NAME, bot_username=bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
